@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @7Bit
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on A Web Exstention
 - 📫 How to reach me Email
 
 <!---
