@@ -1,4 +1,3 @@
-primes = list()
 maxPrime = 10_000_000
 
 
@@ -13,6 +12,4 @@ def isPrime(p):
 
 for i in range(2, maxPrime):
     if isPrime(i):
-        primes.append(i)
-
-print(primes)
+        print(i)
